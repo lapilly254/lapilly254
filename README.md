@@ -1,7 +1,7 @@
 ## Hi... I'm Barack 👋
 
 🚀 Welcome to my GitHub profile!  
-I’m a passionate developer skilled in **JavaScript** and **Python**
+I’m a passionate developer skilled in **TypeScript**, **JavaScript** and **Python**
 
 ---
 
